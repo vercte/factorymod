@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "factorymod:textures/block/static_material_block"
+    "all": "factorymod:block/static_material_block"
   }
 }
