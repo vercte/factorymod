@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "factorymod:block/static_material_block"
+    }
+  }
+}

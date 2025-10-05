@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "factorymod:block/awesome_block"
+    }
+  }
+}
